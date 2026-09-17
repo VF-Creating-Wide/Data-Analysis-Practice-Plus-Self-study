@@ -9,7 +9,8 @@
 - A collection of LeetCode solutions with notes for SQL, Python, and data analysis interview preparation.
 - Notes and records from learning Python through personal projects.
 - Something fun maybe.
-- Personal stuff
+- English language learning.
+- Personal stuff.
 
 ## Quotes collection ✏️
   </p>
