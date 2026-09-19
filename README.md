@@ -6,7 +6,8 @@
 ## What is this? 🤔
 ![](https://ghchart.rshah.org/VF-Creating-Wide)
 
-- A collection of LeetCode solutions with notes for SQL, Python, and data analysis interview preparation.
+- A collection of LeetCode solutions with notes for SQL, Python.
+- Data analysis.
 - Notes and records from learning Python through personal projects.
 - Something fun maybe.
 - English language learning.
